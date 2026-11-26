@@ -76,6 +76,20 @@ We expect a positive relationship between study hours and exam scores.
 
 Students who study more hours may achieve higher exam scores.
 
+11. ADDITIONAL STATISTICAL ANALYSIS
+
+Pearson Correlation: 0.9976
+Spearman Correlation: 1.0000
+Effect Size (R-squared): 0.9952
+
+12. ROBUSTNESS CHECK
+
+Spearman correlation was performed as an additional statistical test.
+
+The result showed a strong positive relationship between study hours and exam scores.
+
+Both Pearson and Spearman correlation results support a positive association in the synthetic dataset.
+
 Limitations:
 1. The dataset contains only 10 observations.
 2. The dataset is synthetic, not real student data.
