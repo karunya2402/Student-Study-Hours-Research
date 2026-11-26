@@ -1,0 +1,8 @@
+import pandas as pd
+
+df = pd.read_csv("student_study_data.csv")
+
+assert df.shape == (10, 2)
+assert df.isnull().sum().sum() == 0
+
+print("Dataset Test Passed Successfully!")
