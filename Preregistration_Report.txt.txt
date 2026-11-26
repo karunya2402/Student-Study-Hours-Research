@@ -1,0 +1,83 @@
+PREREGISTRATION REPORT
+
+Project Title:
+Student Study Hours vs Exam Performance
+
+1. Research Question:
+
+Is there a relationship between the number of hours students study and their exam scores?
+
+2. Population:
+
+Students.
+
+3. Exposure:
+
+Number of hours spent studying.
+
+4. Comparator:
+
+Students who study fewer hours compared with students who study more hours.
+
+5. Outcome:
+
+Students' exam scores (0–100).
+
+6. Observation Window:
+
+One examination period.
+
+7. Research Hypotheses:
+
+Null Hypothesis (H0):
+There is no significant relationship between study hours and exam scores.
+
+Alternative Hypothesis (H1):
+There is a significant relationship between study hours and exam scores.
+
+
+8. Data Exclusion Criteria:
+
+The following data will be excluded:
+
+1. Missing values.
+2. Negative study hours.
+3. Exam scores below 0.
+4. Exam scores above 100.
+
+Only valid observations will be included in the analysis.
+
+
+9. Statistical Analysis Plan:
+
+The dataset will be analyzed using Python.
+
+Libraries:
+1. Pandas – Data handling.
+2. Matplotlib – Data visualization.
+3. SciPy – Statistical analysis.
+
+Analysis Methods:
+1. Display the dataset.
+2. Check missing values.
+3. Calculate descriptive statistics.
+4. Create a scatter plot.
+5. Calculate the Pearson correlation coefficient.
+6. Perform the Pearson correlation test.
+
+Significance Level:
+The significance level will be set at 0.05.
+
+
+10. Expected Results and Limitations:
+
+Expected Results:
+We expect a positive relationship between study hours and exam scores.
+
+Students who study more hours may achieve higher exam scores.
+
+Limitations:
+1. The dataset contains only 10 observations.
+2. The dataset is synthetic, not real student data.
+3. The results cannot be generalized to all students.
+4. Correlation does not prove causation.
